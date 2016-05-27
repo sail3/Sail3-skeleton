@@ -7,14 +7,16 @@ Este proyecto define una estructura de directorios para la creacion de aplicacio
 * **src:** Codigo de la aplicacion.
 * **src/Controller:** Directorio para los controladores.
 * **src/View/:** Directorio para las vistas.
-## Archivos
+
+## Archivos.
 * **app/app.php:** Archivo de configuracion de la aplicacion.
 * **bin/console:** Aplicacion de consola.
 * **src/Controller/DefaultController:** Controlador por defecto de la aplicación.
-## Uso
+
+## Uso.
 Puede hacer un fork de este repositorio para poder crear sus aplicaciones.
-#
-Para instalar los vendors situese en el direcotorio raizy ejecute el siguiente comando
+
+Para instalar los vendors sitúese en el direcotorio raiz y ejecute el siguiente comando
 ```sh
 composer install
 ```
