@@ -1,4 +1,4 @@
-# Silex/Sail3-skeleton
+# Silex/sail3skeleton
 Este proyecto define una estructura de directorios para la creacion de aplicaciones web con el micro-framework [Silex](http://silex.sensiolabs.org/).
 ## Estructura de directorios.
 * **app:** Archivos de la aplicacion.
