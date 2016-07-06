@@ -22,5 +22,6 @@
       "MyApplication\\": "src"
     }
   },
-  "license": "MIT"
+  "license": "MIT",
+  "type": "project"
 }
